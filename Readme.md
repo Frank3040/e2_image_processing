@@ -57,19 +57,19 @@ pip install -r requirements.txt
 4. Open image_processing.ipynb and execute the cells.
 
 
-
-
 ### Showing Final Results after applying each filter
 ![](images/Aspose.Words.feba433b-42d9-4455-96dc-479b548cb663.009.png)
 
 
-**Gaussian filter![](images/Aspose.Words.feba433b-42d9-4455-96dc-479b548cb663.010.png)**
+#### Gaussian filter
+![](images/Aspose.Words.feba433b-42d9-4455-96dc-479b548cb663.010.png)
 
 
-**Sobel filter![](images/Aspose.Words.feba433b-42d9-4455-96dc-479b548cb663.011.png)**
+#### Sobel filter
+![](images/Aspose.Words.feba433b-42d9-4455-96dc-479b548cb663.011.png)
 
 
-**Median filter**
+#### Median filter
 
 ![](images/Aspose.Words.feba433b-42d9-4455-96dc-479b548cb663.012.png)
 
